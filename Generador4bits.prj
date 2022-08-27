@@ -1,0 +1,6 @@
+vhdl work "ff_jk.vhd"
+vhdl work "generador_1011.vhd"
+vhdl work "generador_1001.vhd"
+vhdl work "generador_0101.vhd"
+vhdl work "generador_0011.vhd"
+vhdl work "Taller.vhd"

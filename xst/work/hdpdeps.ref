@@ -1,0 +1,86 @@
+V3 44
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.vhd" 2021/01/23.22:16:41 P.20131013
+EN work/Alarma 1611464011 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Alarma/Behavioral 1611464012 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.vhd" \
+      EN work/Alarma 1611464011 CP Generador4bits CP detector CP contador \
+      CP temporizador
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/contador.vhd" 2021/01/23.22:53:08 P.20131013
+EN work/contador 1611464007 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/contador.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador/Behavioral 1611464008 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/contador.vhd" \
+      EN work/contador 1611464007
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/detector.vhd" 2021/01/23.12:11:43 P.20131013
+EN work/detector 1611464005 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/detector.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/detector/Behavioral 1611464006 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/detector.vhd" \
+      EN work/detector 1611464005 CP ffjk
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ffjk.vhd" 2021/01/23.22:23:55 P.20131013
+EN work/ffjk 1611463993 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ffjk.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ffjk/Behavioral 1611463994 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ffjk.vhd" \
+      EN work/ffjk 1611463993
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ff_jk.vhd" 2021/01/23.22:23:56 P.20131013
+EN work/ff_jk 1611463991 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ff_jk.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/ff_jk/Behavioral 1611463992 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ff_jk.vhd" \
+      EN work/ff_jk 1611463991
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0011.vhd" 2021/01/22.19:21:51 P.20131013
+EN work/generador_0011 1611463997 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0011.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/generador_0011/Behavioral 1611463998 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0011.vhd" \
+      EN work/generador_0011 1611463997 CP ff_jk
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0101.vhd" 2021/01/22.19:21:51 P.20131013
+EN work/generador_0101 1611463995 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0101.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/generador_0101/Behavioral 1611463996 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0101.vhd" \
+      EN work/generador_0101 1611463995 CP ff_jk
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1001.vhd" 2021/01/22.19:21:51 P.20131013
+EN work/generador_1001 1611463999 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1001.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/generador_1001/Behavioral 1611464000 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1001.vhd" \
+      EN work/generador_1001 1611463999 CP ff_jk
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1011.vhd" 2021/01/22.19:21:51 P.20131013
+EN work/generador_1011 1611464001 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1011.vhd" \
+      PB ieee/std_logic_1164 1381692176
+AR work/generador_1011/Behavioral 1611464002 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1011.vhd" \
+      EN work/generador_1011 1611464001 CP ff_jk
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.vhd" 2021/01/14.14:37:18 P.20131013
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Taller.vhd" 2021/01/22.19:21:51 P.20131013
+EN work/Generador4bits 1611464003 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Taller.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/Generador4bits/Behavioral 1611464004 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Taller.vhd" \
+      EN work/Generador4bits 1611464003 CP generador_0101 CP generador_0011 \
+      CP generador_1001 CP generador_1011
+FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/temporizador.vhd" 2021/01/23.22:22:49 P.20131013
+EN work/temporizador 1611464009 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/temporizador.vhd" \
+      PB ieee/std_logic_1164 1381692176 PB ieee/NUMERIC_STD 1381692181 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/temporizador/Behavioral 1611464010 \
+      FL "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/temporizador.vhd" \
+      EN work/temporizador 1611464009

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/fufufuf_isim_beh.exe" -prj "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/fufufuf_beh.prj" "work.fufufuf" 

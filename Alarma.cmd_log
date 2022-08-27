@@ -1,0 +1,779 @@
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Alarma.ngc" Alarma.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Alarma_map.ncd Alarma.ngd Alarma.pcf 
+par -w -intstyle ise -ol high -t 1 Alarma_map.ncd Alarma.ncd Alarma.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Alarma.twx Alarma.ncd -o Alarma.twr Alarma.pcf 

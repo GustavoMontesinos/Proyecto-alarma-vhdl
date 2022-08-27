@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Generador4bits.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Generador4bits.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Generador4bits.ngc" Generador4bits.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Generador4bits_map.ncd Generador4bits.ngd Generador4bits.pcf 
+par -w -intstyle ise -ol high -t 1 Generador4bits_map.ncd Generador4bits.ncd Generador4bits.pcf 

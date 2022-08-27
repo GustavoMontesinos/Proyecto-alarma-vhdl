@@ -1,0 +1,602 @@
+Release 14.7 - xst P.20131013 (nt64)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.13 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 1.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Reading design: Alarma.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Compilation
+  3) Design Hierarchy Analysis
+  4) HDL Analysis
+  5) HDL Synthesis
+     5.1) HDL Synthesis Report
+  6) Advanced HDL Synthesis
+     6.1) Advanced HDL Synthesis Report
+  7) Low Level Synthesis
+  8) Partition Report
+  9) Final Report
+	9.1) Device utilization summary
+	9.2) Partition Resource Summary
+	9.3) TIMING REPORT
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "Alarma.prj"
+Input Format                       : mixed
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "Alarma"
+Output Format                      : NGC
+Target Device                      : xc3s500e-4-fg320
+
+---- Source Options
+Top Module Name                    : Alarma
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Mux Style                          : Auto
+Decoder Extraction                 : YES
+Priority Encoder Extraction        : Yes
+Shift Register Extraction          : YES
+Logical Shifter Extraction         : YES
+XOR Collapsing                     : YES
+ROM Style                          : Auto
+Mux Extraction                     : Yes
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Multiplier Style                   : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 24
+Register Duplication               : YES
+Slice Packing                      : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Yes
+Use Synchronous Set                : Yes
+Use Synchronous Reset              : Yes
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+Verilog 2001                       : YES
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Compilation                              *
+=========================================================================
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ff_jk.vhd" in Library work.
+Architecture behavioral of Entity ff_jk is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ffjk.vhd" in Library work.
+Architecture behavioral of Entity ffjk is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0101.vhd" in Library work.
+Architecture behavioral of Entity generador_0101 is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0011.vhd" in Library work.
+Architecture behavioral of Entity generador_0011 is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1001.vhd" in Library work.
+Architecture behavioral of Entity generador_1001 is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1011.vhd" in Library work.
+Architecture behavioral of Entity generador_1011 is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Taller.vhd" in Library work.
+Architecture behavioral of Entity generador4bits is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/detector.vhd" in Library work.
+Architecture behavioral of Entity detector is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/contador.vhd" in Library work.
+Entity <contador> compiled.
+Entity <contador> (Architecture <behavioral>) compiled.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/temporizador.vhd" in Library work.
+Architecture behavioral of Entity temporizador is up to date.
+Compiling vhdl file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.vhd" in Library work.
+Architecture behavioral of Entity alarma is up to date.
+
+=========================================================================
+*                     Design Hierarchy Analysis                         *
+=========================================================================
+Analyzing hierarchy for entity <Alarma> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <Generador4bits> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <detector> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <contador> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <temporizador> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <generador_0101> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <generador_0011> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <generador_1001> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <generador_1011> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <ffjk> in library <work> (architecture <behavioral>).
+
+Analyzing hierarchy for entity <ff_jk> in library <work> (architecture <behavioral>).
+
+
+=========================================================================
+*                            HDL Analysis                               *
+=========================================================================
+Analyzing Entity <Alarma> in library <work> (Architecture <behavioral>).
+Entity <Alarma> analyzed. Unit <Alarma> generated.
+
+Analyzing Entity <Generador4bits> in library <work> (Architecture <behavioral>).
+Entity <Generador4bits> analyzed. Unit <Generador4bits> generated.
+
+Analyzing Entity <generador_0101> in library <work> (Architecture <behavioral>).
+Entity <generador_0101> analyzed. Unit <generador_0101> generated.
+
+Analyzing Entity <ff_jk> in library <work> (Architecture <behavioral>).
+Entity <ff_jk> analyzed. Unit <ff_jk> generated.
+
+Analyzing Entity <generador_0011> in library <work> (Architecture <behavioral>).
+Entity <generador_0011> analyzed. Unit <generador_0011> generated.
+
+Analyzing Entity <generador_1001> in library <work> (Architecture <behavioral>).
+Entity <generador_1001> analyzed. Unit <generador_1001> generated.
+
+Analyzing Entity <generador_1011> in library <work> (Architecture <behavioral>).
+Entity <generador_1011> analyzed. Unit <generador_1011> generated.
+
+Analyzing Entity <detector> in library <work> (Architecture <behavioral>).
+Entity <detector> analyzed. Unit <detector> generated.
+
+Analyzing Entity <ffjk> in library <work> (Architecture <behavioral>).
+Entity <ffjk> analyzed. Unit <ffjk> generated.
+
+Analyzing Entity <contador> in library <work> (Architecture <behavioral>).
+WARNING:Xst:819 - "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/contador.vhd" line 50: One or more signals are missing in the process sensitivity list. To enable synthesis of FPGA/CPLD hardware, XST will assume that all necessary signals are present in the sensitivity list. Please note that the result of the synthesis may differ from the initial design specification. The missing signals are:
+   <conta>
+Entity <contador> analyzed. Unit <contador> generated.
+
+Analyzing Entity <temporizador> in library <work> (Architecture <behavioral>).
+Entity <temporizador> analyzed. Unit <temporizador> generated.
+
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Performing bidirectional port resolution...
+
+Synthesizing Unit <contador>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/contador.vhd".
+WARNING:Xst:737 - Found 8-bit latch for signal <conta>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+INFO:Xst:2371 - HDL ADVISOR - Logic functions respectively driving the data and gate enable inputs of this latch share common terms. This situation will potentially lead to setup/hold violations and, as a result, to simulation problems. This situation may come from an incomplete case statement (all selector values are not covered). You should carefully review if it was in your intentions to describe such a latch.
+    Found 8-bit adder for signal <conta$addsub0000> created at line 57.
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+Unit <contador> synthesized.
+
+
+Synthesizing Unit <temporizador>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/temporizador.vhd".
+    Found 1-bit register for signal <aux>.
+    Found 1-bit register for signal <aux6>.
+    Found 8-bit up counter for signal <conta>.
+    Summary:
+	inferred   1 Counter(s).
+	inferred   2 D-type flip-flop(s).
+Unit <temporizador> synthesized.
+
+
+Synthesizing Unit <ff_jk>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ff_jk.vhd".
+    Found 1-bit register for signal <temp>.
+    Summary:
+	inferred   1 D-type flip-flop(s).
+Unit <ff_jk> synthesized.
+
+
+Synthesizing Unit <ffjk>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ffjk.vhd".
+    Found 1-bit register for signal <temp>.
+    Summary:
+	inferred   1 D-type flip-flop(s).
+Unit <ffjk> synthesized.
+
+
+Synthesizing Unit <detector>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/detector.vhd".
+Unit <detector> synthesized.
+
+
+Synthesizing Unit <generador_0101>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0101.vhd".
+WARNING:Xst:646 - Signal <q1> is assigned but never used. This unconnected signal will be trimmed during the optimization process.
+Unit <generador_0101> synthesized.
+
+
+Synthesizing Unit <generador_0011>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0011.vhd".
+Unit <generador_0011> synthesized.
+
+
+Synthesizing Unit <generador_1001>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1001.vhd".
+Unit <generador_1001> synthesized.
+
+
+Synthesizing Unit <generador_1011>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1011.vhd".
+Unit <generador_1011> synthesized.
+
+
+Synthesizing Unit <Generador4bits>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Taller.vhd".
+WARNING:Xst:737 - Found 1-bit latch for signal <st>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+Unit <Generador4bits> synthesized.
+
+
+Synthesizing Unit <Alarma>.
+    Related source file is "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.vhd".
+Unit <Alarma> synthesized.
+
+WARNING:Xst:524 - All outputs of the instance <Inst_ff_jk_2> of the block <ff_jk> are unconnected in block <generador_0101>.
+   This instance will be removed from the design along with all underlying logic
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# Adders/Subtractors                                   : 1
+ 8-bit adder                                           : 1
+# Counters                                             : 1
+ 8-bit up counter                                      : 1
+# Registers                                            : 13
+ 1-bit register                                        : 13
+# Latches                                              : 2
+ 1-bit latch                                           : 1
+ 8-bit latch                                           : 1
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# Adders/Subtractors                                   : 1
+ 8-bit adder                                           : 1
+# Counters                                             : 1
+ 8-bit up counter                                      : 1
+# Registers                                            : 13
+ Flip-Flops                                            : 13
+# Latches                                              : 2
+ 1-bit latch                                           : 1
+ 8-bit latch                                           : 1
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+WARNING:Xst:1989 - Unit <Generador4bits>: instances <Inst_0101/Inst_ff_jk_1>, <Inst_0011/Inst_ff_jk_1> of unit <ff_jk> are equivalent, second instance is removed
+WARNING:Xst:1989 - Unit <Generador4bits>: instances <Inst_0101/Inst_ff_jk_1>, <Inst_1001/Inst_ff_jk_1> of unit <ff_jk> are equivalent, second instance is removed
+WARNING:Xst:1989 - Unit <Generador4bits>: instances <Inst_0101/Inst_ff_jk_1>, <Inst_1011/Inst_ff_jk_1> of unit <ff_jk> are equivalent, second instance is removed
+
+Optimizing unit <Alarma> ...
+
+Optimizing unit <contador> ...
+
+Optimizing unit <detector> ...
+
+Optimizing unit <Generador4bits> ...
+
+Mapping all equations...
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block Alarma, actual ratio is 0.
+Latch Inst_generador/st has been replicated 1 time(s) to handle iob=true attribute.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 18
+ Flip-Flops                                            : 18
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Final Report                               *
+=========================================================================
+Final Results
+RTL Top Level Output File Name     : Alarma.ngr
+Top Level Output File Name         : Alarma
+Output Format                      : NGC
+Optimization Goal                  : Speed
+Keep Hierarchy                     : No
+
+Design Statistics
+# IOs                              : 23
+
+Cell Usage :
+# BELS                             : 67
+#      GND                         : 1
+#      INV                         : 3
+#      LUT1                        : 7
+#      LUT2                        : 6
+#      LUT2_L                      : 2
+#      LUT3                        : 9
+#      LUT4                        : 15
+#      LUT4_D                      : 6
+#      MUXCY                       : 7
+#      MUXF5                       : 2
+#      VCC                         : 1
+#      XORCY                       : 8
+# FlipFlops/Latches                : 28
+#      FDCE_1                      : 8
+#      FDR                         : 10
+#      LD                          : 8
+#      LDCPE                       : 2
+# Clock Buffers                    : 2
+#      BUFG                        : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 22
+#      IBUF                        : 3
+#      OBUF                        : 19
+=========================================================================
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 3s500efg320-4 
+
+ Number of Slices:                       26  out of   4656     0%  
+ Number of Slice Flip Flops:             27  out of   9312     0%  
+ Number of 4 input LUTs:                 48  out of   9312     0%  
+ Number of IOs:                          23
+ Number of bonded IOBs:                  23  out of    232     9%  
+    IOB Flip Flops:                       1
+ Number of GCLKs:                         2  out of     24     8%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+TIMING REPORT
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------------------------------+-------------------------------+-------+
+Clock Signal                                               | Clock buffer(FF name)         | Load  |
+-----------------------------------------------------------+-------------------------------+-------+
+clk                                                        | BUFGP                         | 18    |
+Inst_contador/conta_not0001(Inst_contador/conta_not00011:O)| NONE(*)(Inst_contador/conta_7)| 8     |
+selector2                                                  | IBUF+BUFG                     | 2     |
+-----------------------------------------------------------+-------------------------------+-------+
+(*) This 1 clock signal(s) are generated by combinatorial logic,
+and XST is not able to identify which are the primary clock signals.
+Please use the CLOCK_SIGNAL constraint to specify the clock signal(s) generated by combinatorial logic.
+INFO:Xst:2169 - HDL ADVISOR - Some clock signals were not automatically buffered by XST with BUFG/BUFR resources. Please use the buffer_type constraint in order to insert these buffers to the clock signals to help prevent skew problems.
+
+Asynchronous Control Signals Information:
+----------------------------------------
+----------------------------------------------------------------------------------------+--------------------------------------+-------+
+Control Signal                                                                          | Buffer(FF name)                      | Load  |
+----------------------------------------------------------------------------------------+--------------------------------------+-------+
+Inst_detector/Inst_ff_jk_0/reset_inv(Inst_generador/Inst_0011/Inst_ff_jk_2/reset_inv1:O)| NONE(Inst_detector/Inst_ff_jk_0/temp)| 8     |
+Inst_generador/st__and0000(Inst_generador/st__and00001:O)                               | NONE(Inst_generador/st)              | 2     |
+Inst_generador/st__and0001(Inst_generador/st__and00011:O)                               | NONE(Inst_generador/st)              | 2     |
+----------------------------------------------------------------------------------------+--------------------------------------+-------+
+
+Timing Summary:
+---------------
+Speed Grade: -4
+
+   Minimum period: 5.192ns (Maximum Frequency: 192.604MHz)
+   Minimum input arrival time before clock: 3.395ns
+   Maximum output required time after clock: 6.168ns
+   Maximum combinational path delay: No path found
+
+Timing Detail:
+--------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'clk'
+  Clock period: 4.860ns (frequency: 205.761MHz)
+  Total number of paths / destination ports: 139 / 31
+-------------------------------------------------------------------------
+Delay:               4.860ns (Levels of Logic = 2)
+  Source:            Inst_temporizador/conta_2 (FF)
+  Destination:       Inst_temporizador/aux (FF)
+  Source Clock:      clk rising
+  Destination Clock: clk rising
+
+  Data Path: Inst_temporizador/conta_2 to Inst_temporizador/aux
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDR:C->Q              3   0.591   0.706  Inst_temporizador/conta_2 (Inst_temporizador/conta_2)
+     LUT4_D:I0->O          1   0.704   0.424  Inst_temporizador/aux_cmp_eq000010 (Inst_temporizador/aux_cmp_eq000010)
+     LUT4:I3->O            9   0.704   0.820  Inst_temporizador/aux_or00001 (Inst_temporizador/aux_or0000)
+     FDR:R                     0.911          Inst_temporizador/aux
+    ----------------------------------------
+    Total                      4.860ns (2.910ns logic, 1.950ns route)
+                                       (59.9% logic, 40.1% route)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'Inst_contador/conta_not0001'
+  Clock period: 5.192ns (frequency: 192.604MHz)
+  Total number of paths / destination ports: 108 / 8
+-------------------------------------------------------------------------
+Delay:               5.192ns (Levels of Logic = 3)
+  Source:            Inst_contador/conta_3 (LATCH)
+  Destination:       Inst_contador/conta_4 (LATCH)
+  Source Clock:      Inst_contador/conta_not0001 falling
+  Destination Clock: Inst_contador/conta_not0001 falling
+
+  Data Path: Inst_contador/conta_3 to Inst_contador/conta_4
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     LD:G->Q               4   0.676   0.762  Inst_contador/conta_3 (Inst_contador/conta_3)
+     LUT4_D:I0->O          7   0.704   0.712  Inst_temporizador/aux_and00008 (Inst_contador/conta_cmp_eq00008)
+     LUT4_D:I3->O          4   0.704   0.622  Inst_contador/conta_mux0004<0>11 (Inst_contador/N01)
+     LUT3:I2->O            1   0.704   0.000  Inst_contador/conta_mux0004<4>1 (Inst_contador/conta_mux0004<4>)
+     LD:D                      0.308          Inst_contador/conta_4
+    ----------------------------------------
+    Total                      5.192ns (3.096ns logic, 2.096ns route)
+                                       (59.6% logic, 40.4% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'selector2'
+  Total number of paths / destination ports: 8 / 4
+-------------------------------------------------------------------------
+Offset:              3.395ns (Levels of Logic = 3)
+  Source:            selector (PAD)
+  Destination:       Inst_generador/st (LATCH)
+  Destination Clock: selector2 falling
+
+  Data Path: selector to Inst_generador/st
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O             6   1.218   0.844  selector_IBUF (selector_IBUF)
+     LUT4:I0->O            1   0.704   0.000  Inst_generador/st_mux00002 (Inst_generador/st_mux00002)
+     MUXF5:I0->O           4   0.321   0.000  Inst_generador/st_mux0000_f5 (Inst_generador/st_mux0000)
+     LDCPE:D                   0.308          Inst_generador/st
+    ----------------------------------------
+    Total                      3.395ns (2.551ns logic, 0.844ns route)
+                                       (75.1% logic, 24.9% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'clk'
+  Total number of paths / destination ports: 12 / 10
+-------------------------------------------------------------------------
+Offset:              6.168ns (Levels of Logic = 2)
+  Source:            Inst_detector/Inst_ff_jk_0/temp (FF)
+  Destination:       luz (PAD)
+  Source Clock:      clk falling
+
+  Data Path: Inst_detector/Inst_ff_jk_0/temp to luz
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDCE_1:C->Q           8   0.591   0.932  Inst_detector/Inst_ff_jk_0/temp (Inst_detector/Inst_ff_jk_0/temp)
+     LUT3:I0->O            6   0.704   0.669  Inst_detector/bien1 (luz_OBUF)
+     OBUF:I->O                 3.272          luz_OBUF (luz)
+    ----------------------------------------
+    Total                      6.168ns (4.567ns logic, 1.601ns route)
+                                       (74.0% logic, 26.0% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'selector2'
+  Total number of paths / destination ports: 1 / 1
+-------------------------------------------------------------------------
+Offset:              4.368ns (Levels of Logic = 1)
+  Source:            Inst_generador/st_1 (LATCH)
+  Destination:       s1 (PAD)
+  Source Clock:      selector2 falling
+
+  Data Path: Inst_generador/st_1 to s1
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     LDCPE:G->Q            1   0.676   0.420  Inst_generador/st_1 (Inst_generador/st_1)
+     OBUF:I->O                 3.272          s1_OBUF (s1)
+    ----------------------------------------
+    Total                      4.368ns (3.948ns logic, 0.420ns route)
+                                       (90.4% logic, 9.6% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'Inst_contador/conta_not0001'
+  Total number of paths / destination ports: 8 / 8
+-------------------------------------------------------------------------
+Offset:              4.656ns (Levels of Logic = 1)
+  Source:            Inst_contador/conta_0 (LATCH)
+  Destination:       cuenta<0> (PAD)
+  Source Clock:      Inst_contador/conta_not0001 falling
+
+  Data Path: Inst_contador/conta_0 to cuenta<0>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     LD:G->Q               7   0.676   0.708  Inst_contador/conta_0 (Inst_contador/conta_0)
+     OBUF:I->O                 3.272          cuenta_0_OBUF (cuenta<0>)
+    ----------------------------------------
+    Total                      4.656ns (3.948ns logic, 0.708ns route)
+                                       (84.8% logic, 15.2% route)
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 5.00 secs
+Total CPU time to Xst completion: 4.79 secs
+ 
+--> 
+
+Total memory usage is 4511284 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    8 (   0 filtered)
+Number of infos    :    2 (   0 filtered)
+

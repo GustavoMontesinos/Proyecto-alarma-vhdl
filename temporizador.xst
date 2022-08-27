@@ -1,0 +1,5 @@
+set -tmpdir "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/xst/projnav.tmp"
+set -xsthdpdir "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/xst"
+elaborate
+-ifn temporizador.prj
+-ifmt mixed

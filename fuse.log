@@ -1,0 +1,42 @@
+Running: D:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/fufufuf_isim_beh.exe -prj D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/fufufuf_beh.prj work.fufufuf 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ff_jk.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1011.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_1001.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0101.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/generador_0011.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/ffjk.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/temporizador.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Taller.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/detector.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/contador.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Alarma.vhd" into library work
+Parsing VHDL file "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/fufufuf.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity ff_jk [ff_jk_default]
+Compiling architecture behavioral of entity generador_0101 [generador_0101_default]
+Compiling architecture behavioral of entity generador_0011 [generador_0011_default]
+Compiling architecture behavioral of entity generador_1001 [generador_1001_default]
+Compiling architecture behavioral of entity generador_1011 [generador_1011_default]
+Compiling architecture behavioral of entity Generador4bits [generador4bits_default]
+Compiling architecture behavioral of entity ffjk [ffjk_default]
+Compiling architecture behavioral of entity detector [detector_default]
+Compiling architecture behavioral of entity contador [contador_default]
+Compiling architecture behavioral of entity temporizador [temporizador_default]
+Compiling architecture behavioral of entity Alarma [alarma_default]
+Compiling architecture behavior of entity fufufuf
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 28 VHDL Units
+Built simulation executable D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/fufufuf_isim_beh.exe
+Fuse Memory Usage: 38104 KB
+Fuse CPU Usage: 609 ms

@@ -1,0 +1,7 @@
+vhdl isim_temp "ff_jk.vhd"
+vhdl isim_temp "generador_1011.vhd"
+vhdl isim_temp "generador_1001.vhd"
+vhdl isim_temp "generador_0101.vhd"
+vhdl isim_temp "generador_0011.vhd"
+vhdl isim_temp "Taller.vhd"
+vhdl isim_temp "Proy.vhd"

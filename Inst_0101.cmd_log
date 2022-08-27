@@ -1,0 +1,9 @@
+vhdtdtfi -prj Talller -o "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.tfi" -module Inst_0101 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work Inst_0101.vhd 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.syr" 
+vhdtdtfi -prj Talller -o "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.tfi" -module Inst_0101 -template D:/Xilinx/14.7/ISE_DS/ISE//data/tfi.tft -deleteonerror -lib work Inst_0101.vhd -lib work Taller.vhd 
+vhdtdtfi -lib work Inst_0101.vhd -lib work Taller.vhd -prj Talller -o Inst_0101.spl -module Inst_0101 -template D:/Xilinx/14.7/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.syr" 
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Inst_0101.ngc" Inst_0101.ngd  
+xst -intstyle ise -ifn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.xst" -ofn "D:/javid/Documentos/Octavo/vlsii/PROYECTO 2 PARCIAL/detector4bits-20210107T001808Z-001/Talller/Inst_0101.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 "Inst_0101.ngc" Inst_0101.ngd  
